@@ -1,0 +1,70 @@
+Coding enviroment
+> text editor => https://code.visualstudio.com/download (Install)
+> nodejs => https://nodejs.org/en/download (Install)
+> Git bash => https://git-scm.com/download (Install)
+GIthub link => https://github.com/SangeethaShanmugm
+Github Profile > https://github.com/mdrashid12
+
+I am a Software Developer. Full stack developer intern at edureka. Have knowledge HTML, CSS Javascript, Nodejs, Mongo, Express, React,
+I have 2 years of experience in Mainframe technology as a software developer but i want to switch my technology. I am looking for better opportunity
+
+Configure your Git username/email;
+--------------------
+Open the command line.
+Set your username: git config --global user.name "mdrashid12"
+Set your email address: git config --global user.email "rashmallick43@gmail.com"
+
+
+Application
+
+-----------------------
+Zomato(your choice) => 40%
+ Profile Website - Portfolio => 5%
+ 
+ Assignment - 15%
+ Task -15%
+
+ class performance - 20%
+
+ Extension for Vs code
+ > vscode-icon
+ >spell check
+ >live-server
+ >tabline
+ >gitlens
+ >githistory
+
+
+ Frontend  - 1 (website)
+ 
+ ------------------------
+ HTML - raw structure -static
+ CSS - look and feel (Design)- static
+ Bootstrap - Framework
+ Javascript - Dynamic
+
+ Frontend - 2 ( web-apps)
+ 
+ ------------------------------
+ React - Dynamic
+
+
+ Backend 
+
+---------------------
+Node js 
+MongoDB
+
+MERN Full stack Developer
+
+MongoDB| Express| React| Nodejs
+
+Differnce between websites and web-apps
+ 
+ ------------
+ websites- There is no interaction between user and sites like ( newspaper)
+ web-apps - There is interaction between user and app( like instagram)
+
+ HTML=> shift +1 => ! => enter
+
+
