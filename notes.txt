@@ -67,4 +67,40 @@ Differnce between websites and web-apps
 
  HTML=> shift +1 => ! => enter
 
+MERN | MEAN | Python | Java
+
+Block Level
+-----------------
+> start with new line
+> Take whole width of  screen
+> eg -  div, p, h, section, hr
+
+Inline Level
+---------------
+> Start in the same line
+> Only Take space which is required
+> Eg - span, img, a
+
+CSS - cascading style sheet 
+----------------------------------
+
+3 ways to define CSS
+
+---------------------
+
+1. inline css-  style="background-color:green; font-size: 20px; text-align:center; color: tomato; ">
+>style attribute using inside html
+2.Internal Css - <style></style> => to style elements and tags 
+like  or syntax
+<style>
+body{
+background -color: red;
+}
+</style>
+=> It is done under head tag
+
+3. External css = it will link to the css file which make seperately for styling
+ syntax is----
+ <link rel='stylesheet' href="name of css file "
+
 
