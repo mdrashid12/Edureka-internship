@@ -107,3 +107,18 @@ Control selectors
 -------------------
 1 class=use to style a group of elements=.class name
 2. Id = higher prefrence unique element=#idname
+
+
+Position property
+----------------
+static
+Relative
+Absolute
+Fixed
+sticky
+
+note :
+interview question
+difference b/w display :none; and visiblity:hidden;
+display:none= will not occupy space
+visiblity:hidden; =will occupy spacel
