@@ -103,4 +103,7 @@ background -color: red;
  syntax is----
  <link rel='stylesheet' href="name of css file "
 
-
+Control selectors
+-------------------
+1 class=use to style a group of elements=.class name
+2. Id = higher prefrence unique element=#idname
