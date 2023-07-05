@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -59,4 +60,67 @@
    
 
 </body>
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .image{
+            position:absolute;
+            z-index: -1;
+         }
+         .text{
+            background-color:red;
+         }
+         .box1{
+            border:3px solid green;
+            width:200px;
+            height:100px;
+            background-color:yellow;
+            position:relative;
+            z-index: 2;
+         }
+         .box2{
+            border:3px solid orange;
+            width: 100px;
+            height:80px;
+            background-color:blue;
+            position:absolute;
+            z-index: 3;
+            top:10px;
+
+         }
+         .box3{
+            border:3px solid pink;
+            width:200;
+            height:100;
+            background-color:magenta;
+            position:absolute;
+            z-index: 1;
+            left: 200px;
+            top:5px;
+         }
+
+    </style>
+</head>
+<body>
+    <div class="box1">Box1</div>
+    <div class="box2">Box2</div>  
+     <div class="box3">Box3</div>
+
+    <h1>we know about the z-index</h1>
+    <img class="image" width="400" height="300" src="https://cdn.siasat.com/wp-content/uploads/2020/10/ElIbOt4XUAAQw5J.jpg">
+    <p class="text"> The text will appear on the top of the image using z-index</p>
+   
+
+
+    <br></br>
+
+   
+
+</body>
+>>>>>>> 629b5fe9295aa04e8aaf1ef6d75acb7a9494464a
 </html>

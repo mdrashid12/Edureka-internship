@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,4 +46,53 @@
         <div class="item10">10</div>
     </div>
 </body>
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid</title>
+    <style>
+        .grid-container{
+            background-color:pink;
+            border: 2px pink solid;
+            display:grid;
+            grid-template-columns: auto auto auto auto;
+            gap:10px;
+            /* align-content:center;
+            height:800px; */
+           
+        }
+        /* .item1{
+            grid-column-start: 1;
+            grid-column-end:3; 
+            grid-column:1/3
+        } */
+        .grid-container >div{
+            border:2px solid pink;
+            background-color:aqua;
+            text-align:center;
+            margin:10px;
+        }
+        .itme5 {
+    grid-area: 1/2/3/4;
+}
+    </style>
+</head>
+<body>
+    <div class="grid-container">
+        <div class="item1">1</div>
+        <div clas="item2">2</div>
+        <div class="item3">3</div>
+        <div class="itme4">4</div>
+        <div class="itme5">5</div>
+        <div class="item6">6</div>
+        <div class="item7">7</div>
+        <div class="itme8">8</div>
+        <div class="item9">9</div>
+        <div class="item10">10</div>
+    </div>
+</body>
+>>>>>>> 629b5fe9295aa04e8aaf1ef6d75acb7a9494464a
 </html>
